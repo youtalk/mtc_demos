@@ -13,6 +13,7 @@ find_package(catkin REQUIRED COMPONENTS
 	rviz_marker_tools
 	grasping_msgs
 	rostest
+	eigen_conversions
 )
 
 catkin_python_setup()
